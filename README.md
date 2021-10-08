@@ -8,7 +8,8 @@ Programs taking two different approaches to choosing which damper to put on an a
 A differential equation for θ (for θ small enough so that
 sin θ ∼ θ is a good approximation) in this scenario is
 given by
-## $y''+c/(mL^2)*y'+g/L*y+k/mL*y=T_0/(mL^2)*sin(bt)$
+![image](https://user-images.githubusercontent.com/64051575/136565392-28ff83b7-4838-446c-a45f-de1bea34a393.png)
+
 In a Rolls-Royce Trent 900 Series engine, used on Airbus
 A380s, we know that
 (a) the dry weight m of the engine is 6,246 kg,
